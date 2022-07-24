@@ -415,8 +415,8 @@
      }
      .navbar_toggle-btn {
          display: block;
-         top: 16px;
-         right: 16px;
+         top: 24px;
+         right: 28px;
          font-size: var(--font-medium);
      }
      #navbar {
@@ -425,7 +425,7 @@
          background-color: #f48fb1;
      }
      #navbar.navbar-dark {
-         padding: 28px;
+         padding: 4px;
      }
      .navbar_menu {
          flex-direction: column;
